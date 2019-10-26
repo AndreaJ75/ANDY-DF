@@ -1,0 +1,3 @@
+[submodule "JAVA_project"]
+	path = JAVA_project
+	url = https://github.com/AndreaJ75/ANDY-DF.git
